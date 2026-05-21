@@ -11,8 +11,8 @@ Technologies Used
 * **NumPy & Pandas** (Data manipulation)
 * **Matplotlib & PIL** (Image visualization and processing)
 
-Dataset
-The model is trained on the Kaggle Coin Images Dataset 
+Dataset 
+The model is trained on the Kaggle Coin Images Dataset Dataset link : https://www.kaggle.com/datasets/wanderdust/coin-images
 * **Training Images:** 6,413
 * **Validation Images:** 844
 * **Testing Images:** 844
