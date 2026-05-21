@@ -12,7 +12,7 @@ Technologies Used
 * **Matplotlib & PIL** (Image visualization and processing)
 
 Dataset
-The model is trained on the [Kaggle Coin Images Dataset](https://www.kaggle.com/datasets). 
+The model is trained on the Kaggle Coin Images Dataset 
 * **Training Images:** 6,413
 * **Validation Images:** 844
 * **Testing Images:** 844
